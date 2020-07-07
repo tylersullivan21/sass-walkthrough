@@ -9,6 +9,9 @@ header{
 
     button{
         background: $primaryBtn;
+        &:hover{
+            background:black;
+        }
     }
 }
 

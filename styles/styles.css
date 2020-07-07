@@ -13,6 +13,10 @@ header button {
   background: orange;
 }
 
+header button:hover {
+  background: black;
+}
+
 .contact button {
   background: orange;
 }
