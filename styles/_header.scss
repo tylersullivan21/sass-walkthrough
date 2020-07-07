@@ -1,0 +1,13 @@
+
+header{
+    display: flex;
+    justify-content: center;
+    color: $textcolor;
+    background: $primaryBackground;
+    button{
+        background: $primaryBtn;
+        &:hover{
+            background:black;
+        }
+    }
+}

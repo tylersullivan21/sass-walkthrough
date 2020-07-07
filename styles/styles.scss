@@ -1,21 +1,5 @@
-$primaryBtn : orange;
-$textcolor: magenta;
-
-header{
-    background: blue;
-    display: flex;
-    justify-content: center;
-    color: $textcolor;
-
-    button{
-        background: $primaryBtn;
-        &:hover{
-            background:black;
-        }
-    }
-}
-
-
+@import './variables';
+@import './header';
 .contact button{
     background: $primaryBtn;
 }
