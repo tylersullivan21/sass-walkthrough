@@ -6,13 +6,14 @@ header {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  color: magenta;
 }
 
 header button {
-  background: green;
+  background: orange;
 }
 
 .contact button {
-  background: green;
+  background: orange;
 }
 /*# sourceMappingURL=styles.css.map */
