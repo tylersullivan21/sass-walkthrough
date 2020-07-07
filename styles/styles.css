@@ -14,8 +14,8 @@ header {
       -ms-flex-direction: column;
           flex-direction: column;
   height: 100vh;
-  color: cyan;
-  background: black;
+  color: magenta;
+  background: lightblue;
 }
 
 header button {
