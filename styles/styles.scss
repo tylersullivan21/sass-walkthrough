@@ -5,3 +5,13 @@
     @include flexCenter(row);
     background: $primaryBtn;
 }
+
+.info{
+    background: black;
+    h1{
+        font-size: 44px;
+    }
+    p{
+        font-size:33px;
+    }
+}

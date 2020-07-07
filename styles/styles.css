@@ -43,4 +43,16 @@ header button:hover {
           flex-direction: row;
   background: orange;
 }
+
+.info {
+  background: black;
+}
+
+.info h1 {
+  font-size: 44px;
+}
+
+.info p {
+  font-size: 33px;
+}
 /*# sourceMappingURL=styles.css.map */
