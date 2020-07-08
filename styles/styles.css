@@ -52,6 +52,10 @@ header button:hover {
   font-size: 44px;
 }
 
+.info h3 {
+  font-size: 35px;
+}
+
 .info p {
   font-size: 33px;
 }
