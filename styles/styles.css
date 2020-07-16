@@ -50,6 +50,8 @@ header button:hover {
 
 .info h1 {
   font-size: 44px;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
 .info h3 {
