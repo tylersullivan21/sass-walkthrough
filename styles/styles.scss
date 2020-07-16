@@ -4,7 +4,6 @@
 .contact{
     @include flexCenter(row);
     background: $primaryBtn;
-
 }
 
 .info{
@@ -12,14 +11,14 @@
     h1{
         font-size: 44px;
         font-weight: bold;
-        text-transform: uppercase;
+        text-transform: $textTransform;
     }
     h3{
         font-size: 35px;
-        text-transform: uppercase;
+        text-transform: $textTransform;
     }
     p{
         font-size:33px;
-        text-transform: uppercase;
+        text-transform: $textTransform;
     }
 }
