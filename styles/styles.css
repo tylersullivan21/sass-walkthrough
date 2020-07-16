@@ -19,7 +19,7 @@ header {
 }
 
 header button {
-  background: orange;
+  background: grey;
 }
 
 header button:hover {
@@ -41,7 +41,7 @@ header button:hover {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
-  background: orange;
+  background: grey;
 }
 
 .info {
@@ -56,9 +56,11 @@ header button:hover {
 
 .info h3 {
   font-size: 35px;
+  text-transform: uppercase;
 }
 
 .info p {
   font-size: 33px;
+  text-transform: uppercase;
 }
 /*# sourceMappingURL=styles.css.map */
